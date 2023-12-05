@@ -197,7 +197,6 @@ window.addEventListener("load", () => {
             trigger: "main",
             start: "top top",
             end: 5000,
-            markers: true,
             scrub: true
         }
     });
